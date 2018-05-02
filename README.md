@@ -1,0 +1,1 @@
+# goeasyretail-x86
